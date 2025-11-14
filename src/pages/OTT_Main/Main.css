@@ -10,9 +10,6 @@
     flex-direction: column;
     /* position: relative; */
 }
-/* li > img:hover{
-    border: none;
-} */
 .Main button{
     cursor: pointer;
 }
